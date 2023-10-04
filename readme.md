@@ -19,12 +19,7 @@ CSS file is properly commented with descriptive commit messages.
 
 ## Usage
 
-<!-- SCREENSHOTS TO BE ADDED HERE PRIOR TO FINAL DEPLOYMENT 
-    Reminder to self - To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+<!-- URL added here prior to final deployment
 -->
 
 
