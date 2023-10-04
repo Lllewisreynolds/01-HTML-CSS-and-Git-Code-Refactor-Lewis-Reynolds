@@ -19,6 +19,5 @@ CSS file is properly commented with descriptive commit messages.
 
 ## Link to Deployed Application
 
-https://github.com/Lllewisreynolds/01-HTML-CSS-and-Git-Code-Refactor-Lewis-Reynolds
-
+https://lllewisreynolds.github.io/01-HTML-CSS-and-Git-Code-Refactor-Lewis-Reynolds/
 
