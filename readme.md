@@ -8,7 +8,7 @@ This has been achieved through the following measures:
 
 1. Addition of a concise, descriptive title in header.
  
-2. Semantic HTML substituted in where appropriate to replace non-descriptive tags like <div>.
+2. Semantic HTML substituted in where appropriate to replace non-descriptive tags like div (block) and span (inline).
 
 3. Alt tags added for all icons and images present in case of failures to load or accessibliity issues.
 
@@ -17,9 +17,8 @@ This has been achieved through the following measures:
 5. Logical structure likewise followed in CSS by putting code in a sequential order that mirrors HTML. Redundant code also excised in CSS with the use of combined stylings/selectors, along with properly commented messages to explain changes instituted.
 CSS file is properly commented with descriptive commit messages.
 
-## Usage
+## Link to Deployed Application
 
-<!-- URL added here prior to final deployment
--->
+https://github.com/Lllewisreynolds/01-HTML-CSS-and-Git-Code-Refactor-Lewis-Reynolds
 
 
